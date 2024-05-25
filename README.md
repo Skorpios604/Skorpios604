@@ -1,4 +1,4 @@
-# Hello everyone! My name is Monzer Mourad👋
+# Hello! My name is Monzer👋
 
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=Skorpios604&show_icons=true&theme=tokyonight" />
