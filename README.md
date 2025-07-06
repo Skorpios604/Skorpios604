@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://media.tenor.com/13GycDCcsfQAAAAC/dragon-ball-z-goku.gif"  />
+  <img height="50" src="https://media.tenor.com/13GycDCcsfQAAAAC/dragon-ball-z-goku.gif"  />
 </div>
 
 ###
