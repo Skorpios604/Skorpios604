@@ -22,14 +22,15 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" height="30" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" height="30" alt="skills row 1" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,mongodb,postgres,bash,docker" height="30" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,mongodb,postgres,bash,docker" height="30" alt="skills row 2" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,mysql,vite" height="30" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,mysql,vite" height="30" alt="skills row 3" />
 </p>
+
 
 
 
