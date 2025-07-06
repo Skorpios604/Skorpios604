@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="30" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" alt="Goku powering up" />
+  <img width="380" height="40" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" alt="Goku powering up" />
 </div>
-
 
 
 ###
