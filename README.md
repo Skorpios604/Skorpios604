@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="35" src="https://media.tenor.com/13GycDCcsfQAAAAC/dragon-ball-z-goku.gif" alt="Goku charging up" />
+  <img height="30" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" alt="Goku powering up" />
 </div>
+
 
 
 ###
@@ -40,19 +41,19 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
-    width="150" 
+    width="450" 
     alt="languages graph" 
   />
   <br />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Skorpios604&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" 
-    width="150" 
+    width="400" 
     alt="stats graph" 
   />
   <br />
   <img 
     src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true&border_radius=10&date_format=n/j[Y]&mode=daily&locale=en&order=3" 
-    width="150" 
+    width="400" 
     alt="streak graph" 
   />
 </div>
