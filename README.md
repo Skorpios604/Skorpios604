@@ -38,9 +38,9 @@
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true&border_radius=10&date_format=n/j[Y]&mode=daily&locale=en&order=3" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
     width="450" 
-    alt="streak graph" 
+    alt="languages graph" 
   />
   <br />
   <img 
@@ -50,12 +50,11 @@
   />
   <br />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
+    src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true&border_radius=10&date_format=n/j[Y]&mode=daily&locale=en&order=3" 
     width="450" 
-    alt="languages graph" 
+    alt="streak graph" 
   />
 </div>
-
 
 
 ###
