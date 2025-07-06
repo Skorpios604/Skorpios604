@@ -21,9 +21,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,npm,mongodb,postgres,bash,docker,figma,git,github,gitlab,mysql,vite" height="30" alt="skills" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" height="30" alt="frontend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,mongodb,postgres,bash,docker" height="30" alt="backend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,mysql,vite" height="30" alt="tools" />
+</p>
+
 
 
 ###
