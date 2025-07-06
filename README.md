@@ -40,7 +40,7 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
-    width="450" 
+    width="400" 
     alt="languages graph" 
   />
   <br />
