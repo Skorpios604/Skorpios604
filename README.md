@@ -2,7 +2,6 @@
   <img width="380" height="400" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" alt="Goku powering up" />
 </div>
 
-
 ###
 
 <h4 align="center">Hi, I'm Monzer👋<br><br>I'm a Vancouver based Full-Stack Developer with over 3 years of experience building scalable web applications. I’m passionate about crafting intuitive user experiences and writing clean, maintainable code.<br><br>🚀 Core team contributor at BlueWave Labs on the Checkmate App (https://github.com/BlueWave-Labs) where I helped scale the open-source project to 5.5k+ GitHub stars.<br><br>🛠 Currently working on projects involving inventory management and Shopify storefronts at Flash Health Technologies.</h4>
@@ -23,16 +22,11 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" height="70" alt="skills row 1" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,npm,mongodb" height="70" alt="skills row 1" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,mongodb,postgres,bash,docker" height="70" alt="skills row 2" />
+  <img src="https://skillicons.dev/icons?i=postgres,bash,docker,figma,git,github,gitlab,mysql,vite" height="70" alt="skills row 2" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,mysql,vite" height="70" alt="skills row 3" />
-</p>
-
-
 
 
 ###
@@ -57,7 +51,6 @@
   />
 </div>
 
-
 ###
 
 <picture>
@@ -65,5 +58,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph.svg">
 </picture>
-
-###
