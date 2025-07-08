@@ -31,25 +31,28 @@
 
 ###
 
-<div align="center">
+<div align="center" style="width: 100%; max-width: 100%; display: flex; flex-direction: column; gap: 12px;">
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
-    width="425" 
     alt="languages graph" 
+    style="width: 100%; max-width: 900px; height: auto;"
   />
-  <br />
+  
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Skorpios604&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" 
-    width="425" 
     alt="stats graph" 
+    style="width: 100%; max-width: 900px; height: auto;"
   />
-  <br />
+  
   <img 
     src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true&border_radius=10&date_format=n/j[Y]&mode=daily&locale=en&order=3" 
-    width="425" 
     alt="streak graph" 
+    style="width: 100%; max-width: 900px; height: auto;"
   />
+
 </div>
+
 
 ###
 
