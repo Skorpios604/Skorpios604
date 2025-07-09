@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Hi, I'm Monzer👋<br><br>I'm a Vancouver based Full-Stack Developer with over 3 years of experience building scalable web applications. I’m passionate about crafting intuitive user experiences and writing clean, maintainable code.<br><br>🚀 Core team contributor at BlueWave Labs on the Checkmate App (https://github.com/BlueWave-Labs) where I helped scale the open-source project to 5.5k+ GitHub stars.<br><br>🛠 Currently working on projects involving inventory management and Shopify storefronts at Flash Health Technologies.</h4>
+<h4 align="center">Hi, I'm Monzer👋<br><br>I'm a Vancouver based Full-Stack Developer with over 3 years of experience building scalable web applications. I’m passionate about crafting intuitive user experiences and writing clean, maintainable code.<br><br>🚀 Core team contributor at BlueWave Labs on the Checkmate App (https://github.com/BlueWave-Labs) where I helped scale the open-source project to 6.1k+ GitHub stars.<br><br>🛠 Currently working on projects involving inventory management and Shopify storefronts at Flash Health Technologies.</h4>
 
 ###
 
