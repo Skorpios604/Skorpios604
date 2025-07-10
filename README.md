@@ -1,10 +1,23 @@
+
+###
+
 <div align="center">
   <img width="380" height="400" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" alt="Goku powering up" />
 </div>
 
 ###
 
-<h4 align="center">Hi, I'm Monzer👋<br><br>I'm a Vancouver based Full-Stack Developer with over 3 years of experience building scalable web applications. I’m passionate about crafting intuitive user experiences and writing clean, maintainable code.<br><br>🚀 Core team contributor at BlueWave Labs on the Checkmate App (https://github.com/BlueWave-Labs) where I helped scale the open-source project to 6.1k+ GitHub stars.<br><br>🛠 Currently working on projects involving inventory management and Shopify storefronts at Flash Health Technologies.</h4>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=AA00FF&center=true&vCenter=true&width=1000&height=70&lines=Hello+World!+%F0%9F%8C%90;I'm+Monzer%2C+architect+of+digital+realms." 
+    alt="Typing SVG" 
+  />
+</p>
+
+###
+<h4 align="center">
+  <br><br>I'm a Vancouver based Full-Stack Developer with over 3 years of experience building scalable web applications. I’m passionate about crafting intuitive user experiences and writing clean, maintainable code.<br><br>🚀 Core team contributor at BlueWave Labs on the Checkmate App (https://github.com/BlueWave-Labs) where I helped scale the open-source project to 6.1k+ GitHub stars.<br><br>🛠 Currently working on projects involving inventory management and Shopify storefronts at Flash Health Technologies.
+</h4>
 
 ###
 
