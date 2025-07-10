@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=AA00FF&center=true&vCenter=true&width=1000&height=70&lines=Hello+World!+%F0%9F%8C%90;I'm+Monzer%2C+architect+of+digital+realms." 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=6533a2&center=true&vCenter=true&width=1000&height=70&lines=Hello+World!+%F0%9F%8C%90;I'm+Monzer%2C+architect+of+digital+realms." 
     alt="Typing SVG" 
   />
 </p>
@@ -17,6 +17,7 @@
 <p align="center">
   I'm a Vancouver-based Full-Stack Developer with over 3 years of experience building scalable web applications. I’m passionate about crafting intuitive user experiences and writing clean, maintainable code. 🚀 Core team contributor at <strong>BlueWave Labs</strong> on the <a href="https://github.com/BlueWave-Labs" target="_blank">Checkmate App</a>, where I helped scale the open-source project to 6.1k+ GitHub stars. 🛠 Currently working on projects involving inventory management and Shopify storefronts at <strong>Flash Health Technologies</strong>.
 </p>
+
 
 ###
 
