@@ -35,7 +35,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,npm,mongodb" height="70" alt="skills row 1" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,nodejs,npm,mongodb" height="70" alt="skills row 1" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,bash,docker,figma,git,github,gitlab,mysql,vite" height="70" alt="skills row 2" />
