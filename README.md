@@ -1,8 +1,10 @@
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=skorpios604&color=4b0082" alt="Profile Views" />
-</div>
+<h2 align="center"><strong>You made it! The counter noticed⚡</strong></h2>
+
+<p align="center">
+  <img src="https://count.getloli.com/@skorpios604?theme=booru-lisu" alt="visitor count" />
+</p>
 
 ###
 
