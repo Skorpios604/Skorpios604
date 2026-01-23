@@ -8,12 +8,6 @@
 
 ###
 
-<div align="center">
-  <img width="440" height="500" src="https://media2.giphy.com/media/AYy9YYXHmsGek/giphy.gif" alt="Goku powering up" />
-</div>
-
-###
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=6533a2&center=true&vCenter=true&width=1000&height=70&lines=Hello+World!+%F0%9F%8C%90;I'm+Monzer%2C+architect+of+digital+realms." 
