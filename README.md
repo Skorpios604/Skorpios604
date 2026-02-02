@@ -48,25 +48,26 @@
 
 ###
 
-<div align="center" style="width: 80%; max-width: 80%; display: flex; flex-direction: column; gap: 12px;">
+<div align="center" style="width: 60%; max-width: 60%; display: flex; flex-direction: column; gap: 12px;">
 
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
     alt="languages graph" 
-    style="width: 65%; max-width: 600px; height: auto;"
+    style="width: 50%; max-width: 600px; height: auto;"
   />
   
+<p align="center">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" 
     alt="stats graph" 
-    style="width: 65%; max-width: 600px; height: auto;"
+    style="width: 40%; max-width: 450px; height: auto;"
   />
-  
   <img 
     src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true&border_radius=10&date_format=n/j[Y]&mode=daily&locale=en&order=3" 
     alt="streak graph" 
-    style="width: 65%; max-width: 600px; height: auto;"
+    style="width: 40%; max-width: 450px; height: auto;"
   />
+</p>
 
 </div>
 
