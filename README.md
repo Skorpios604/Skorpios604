@@ -10,22 +10,19 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=6533a2&center=true&vCenter=true&width=1000&height=70&lines=Hello+World!+%F0%9F%8C%90;I'm+Monzer%2C+architect+of+digital+realms." 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=6533a2&center=true&vCenter=true&width=1000&height=50&lines=Hello+World!+%F0%9F%8C%90;I'm+Monzer%2C+architect+of+digital+realms." 
     alt="Typing SVG" 
   />
+  <br/>
+  <a href="https://monzermourad.dev/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=4000&pause=1000&color=6533a2&center=true&vCenter=true&width=300&height=25&lines=monzermourad.dev" alt="Typed Link" />
+  </a>
+  <br/>
+  <a href="https://monzermourad.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6533a2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
-
-<p align="center">
-  I'm a Vancouver-based Full-Stack Developer with over 3 years of experience building scalable web applications. I especially like working on the frontend as I enjoy beautiful aesthetics, but I also enjoy the in-depth logic that goes into mapping out the backend. I am also a core team contributor at <strong>BlueWave Labs</strong> on the <a href="https://github.com/bluewave-labs/Checkmate" target="_blank">Checkmate App</a>, where I helped scale the open-source project to 9k GitHub stars. So I also enjoy working on open source software and collaborating with startups and founders 🚀
 </p>
-
-<p align="center">
-  🛠 Currently I am working on projects involving JavaScript & Typescript, building an e-commerce website, exploring AI, blogging, and trying to grow a social media channel on TikTok.
-</p>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/monzermourad/" target="_blank">
@@ -35,6 +32,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="80" alt="discord logo"  />
   </a>
 </div>
+
+<p align="center">
+  I'm a Vancouver-based Full-Stack Developer with over 3 years of experience building scalable web applications. I especially like working on the frontend as I enjoy beautiful aesthetics, but I also enjoy the in-depth logic that goes into mapping out the backend. I am also a core team contributor at <strong>BlueWave Labs</strong> on the <a href="https://github.com/bluewave-labs/Checkmate" target="_blank">Checkmate App</a>, where I helped scale the open-source project to 9k GitHub stars. So I also enjoy working on open source software and collaborating with startups and founders 🚀
+</p>
+
+<p align="center">
+  🛠 Currently I am working on projects involving JavaScript & Typescript, building an e-commerce website, exploring AI, blogging, and trying to grow a social media channel on TikTok.
+</p>
 
 ###
 
