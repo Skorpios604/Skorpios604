@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I'm a Vancouver-based Full-Stack Developer with over 3 years of experience building scalable web applications. I especially like working on the frontend as I enjoy beautiful aesthetics, but I also enjoy the in-depth logic that goes into mapping out the backend. I am also a core team contributor at <strong>BlueWave Labs</strong> on the <a href="https://github.com/BlueWave-Labs" target="_blank">Checkmate App</a>, where I helped scale the open-source project to 9k GitHub stars. So I also enjoy working on open source software and collaborating with startups and founders🚀. 🛠 Currently I am working on projects involving JavaScript & Typescript, building an e-commerce website, exploring AI, blogging, and trying to grow a social media channel on TikTok.</strong>.
+  I'm a Vancouver-based Full-Stack Developer with over 3 years of experience building scalable web applications. I especially like working on the frontend as I enjoy beautiful aesthetics, but I also enjoy the in-depth logic that goes into mapping out the backend. I am also a core team contributor at <strong>BlueWave Labs</strong> on the <a href="https://github.com/bluewave-labs/Checkmate" target="_blank">Checkmate App</a>, where I helped scale the open-source project to 9k GitHub stars. So I also enjoy working on open source software and collaborating with startups and founders🚀. 🛠 Currently I am working on projects involving JavaScript & Typescript, building an e-commerce website, exploring AI, blogging, and trying to grow a social media channel on TikTok.</strong>.
 </p>
 
 ###
