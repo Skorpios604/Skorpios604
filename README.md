@@ -51,13 +51,13 @@
 <div align="center" style="width: 80%; max-width: 80%; display: flex; flex-direction: column; gap: 12px;">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
     alt="languages graph" 
     style="width: 65%; max-width: 600px; height: auto;"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Skorpios604&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" 
     alt="stats graph" 
     style="width: 65%; max-width: 600px; height: auto;"
   />
