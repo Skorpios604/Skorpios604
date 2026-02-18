@@ -6,7 +6,9 @@
   <img src="https://count.getloli.com/@skorpios604?theme=booru-lisu" alt="visitor count" />
 </p>
 
-###
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eeb526b2-7fc1-434f-ba78-d93c9889fe61" width="250"/>
+</p>
 
 <p align="center">
   <img 
