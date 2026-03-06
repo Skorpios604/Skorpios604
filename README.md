@@ -24,25 +24,30 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/monzermourad/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="80" alt="linkedin logo" /></a>
-  <a href="https://discord.com/users/skorps23" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="80" alt="discord logo" /></a>
+  <a href="https://www.linkedin.com/in/monzermourad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="80"/>
+  </a>
+  <a href="https://discord.com/users/skorps23" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="80"/>
+  </a>
 </div>
 
 <p align="center">
-  I'm a Vancouver-based Full-Stack Developer with over 3 years of experience building scalable web applications. I especially like working on the frontend as I enjoy beautiful aesthetics, but I also enjoy the in-depth logic that goes into mapping out the backend. I am also a core team contributor at <strong>BlueWave Labs</strong> on the <a href="https://github.com/bluewave-labs/Checkmate" target="_blank">Checkmate App</a>, where I helped scale the open-source project to 9k GitHub stars. So I also enjoy working on open source software and collaborating with startups and founders 🚀
+I'm a Vancouver-based Full-Stack Developer with over 3 years of experience building scalable web applications. I especially like working on the frontend as I enjoy beautiful aesthetics, but I also enjoy the in-depth logic that goes into mapping out the backend. I am also a core team contributor at <strong>BlueWave Labs</strong> on the <a href="https://github.com/bluewave-labs/Checkmate">Checkmate App</a>, where I helped scale the open-source project to 9k GitHub stars. So I also enjoy working on open source software and collaborating with startups and founders 🚀
 </p>
 
 <p align="center">
-  🛠 Currently I am working on projects involving JavaScript & Typescript, building an e-commerce website, exploring AI, blogging, and trying to grow a social media channel on TikTok.
+🛠 Currently I am working on projects involving JavaScript & Typescript, building an e-commerce website, exploring AI, blogging, and trying to grow a social media channel on TikTok.
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,nodejs,npm,mongodb" height="70" alt="skills row 1" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,nodejs,npm,mongodb" height="70"/>
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,bash,docker,figma,git,github,gitlab,mysql,vite" height="70" alt="skills row 2" />
+  <img src="https://skillicons.dev/icons?i=postgres,bash,docker,figma,git,github,gitlab,mysql,vite" height="70"/>
 </p>
 
 ###
@@ -50,7 +55,7 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  Some projects I've built and contributed to.
+Some projects I've built and contributed to.
 </p>
 
 <div align="center">
@@ -64,8 +69,8 @@
 <h3 align="center">Checkmate</h3>
 
 <p align="center">
-<a href="https://github.com/bluewave-labs/Checkmate" target="_blank">
-<img src="https://opengraph.githubassets.com/1/bluewave-labs/Checkmate" width="100%" />
+<a href="https://github.com/bluewave-labs/Checkmate">
+<img src="https://opengraph.githubassets.com/1/bluewave-labs/Checkmate" width="100%" height="230px" style="object-fit:cover;" />
 </a>
 </p>
 
@@ -90,7 +95,7 @@ Open-source platform helping users discover and review local businesses.
 <h3 align="center">E-Commerce Platform</h3>
 
 <p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=E-Commerce+Project" width="100%" />
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=E-Commerce+Project" width="100%" height="230px" style="object-fit:cover;" />
 </p>
 
 <p align="center">
@@ -118,7 +123,7 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 <h3 align="center">AI Experiments</h3>
 
 <p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" width="100%" />
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" width="100%" height="230px" style="object-fit:cover;" />
 </p>
 
 <p align="center">
@@ -142,7 +147,7 @@ Exploring automation, LLM workflows, and AI-powered tools.
 <h3 align="center">Developer Blog</h3>
 
 <p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" width="100%" />
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" width="100%" height="230px" style="object-fit:cover;" />
 </p>
 
 <p align="center">
@@ -169,25 +174,25 @@ Technical blog sharing development insights and tutorials.
 
 ###
 
-<div align="center" style="width: 60%; max-width: 60%; display: flex; flex-direction: column; gap: 12px;">
+<div align="center" style="width:60%;max-width:60%;display:flex;flex-direction:column;gap:12px;">
 
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=4&theme=midnight-purple&hide_border=true&order=2" 
-    alt="languages graph" 
-    style="width: 55%; max-width: 600px; height: auto;"
-  />
-  
+<img 
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true"
+style="width:55%;max-width:600px;height:auto;"
+/>
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" 
-    alt="stats graph" 
-    style="width: 48%; max-width: 800px; height: auto;"
-  />
-  <img 
-    src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true&border_radius=10&date_format=n/j[Y]&mode=daily&locale=en&order=3" 
-    alt="streak graph" 
-    style="width: 48%; max-width: 800px; height: auto;"
-  />
+
+<img 
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true"
+style="width:48%;max-width:800px;height:auto;"
+/>
+
+<img 
+src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true"
+style="width:48%;max-width:800px;height:auto;"
+/>
+
 </p>
 
 </div>
@@ -195,7 +200,7 @@ Technical blog sharing development insights and tutorials.
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/Skorpios604/Skorpios604/output/pacman-contribution-graph.svg">
 </picture>
