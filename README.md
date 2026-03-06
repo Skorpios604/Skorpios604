@@ -1,5 +1,3 @@
-###
-
 <h2 align="center"><strong>You made it! The counter noticed⚡</strong></h2>
 
 <p align="center">
@@ -24,7 +22,6 @@
     <img src="https://img.shields.io/badge/Portfolio-6533a2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
-</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/monzermourad/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="80" alt="linkedin logo" /></a>
@@ -48,6 +45,127 @@
   <img src="https://skillicons.dev/icons?i=postgres,bash,docker,figma,git,github,gitlab,mysql,vite" height="70" alt="skills row 2" />
 </p>
 
+###
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  Some projects I've built and contributed to.
+</p>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">Checkmate</h3>
+
+<p align="center">
+<a href="https://github.com/bluewave-labs/Checkmate" target="_blank">
+<img src="https://opengraph.githubassets.com/1/bluewave-labs/Checkmate" width="100%" />
+</a>
+</p>
+
+<p align="center">
+Open-source platform helping users discover and review local businesses.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" height="50"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/bluewave-labs/Checkmate">
+<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">E-Commerce Platform</h3>
+
+<p align="center">
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=E-Commerce+Project" width="100%" />
+</p>
+
+<p align="center">
+Full-stack e-commerce platform with modern UI and scalable backend.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres" height="50"/>
+</p>
+
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">AI Experiments</h3>
+
+<p align="center">
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" width="100%" />
+</p>
+
+<p align="center">
+Exploring automation, LLM workflows, and AI-powered tools.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,nodejs,ts" height="50"/>
+</p>
+
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Developer Blog</h3>
+
+<p align="center">
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" width="100%" />
+</p>
+
+<p align="center">
+Technical blog sharing development insights and tutorials.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="50"/>
+</p>
+
+<p align="center">
+<a href="https://monzermourad.dev">
+<img src="https://img.shields.io/badge/Visit%20Site-6533a2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ###
 
