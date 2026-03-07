@@ -64,13 +64,13 @@ Some projects I've built and contributed to.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">Checkmate</h3>
 
 <p align="center">
 <a href="https://github.com/bluewave-labs/Checkmate">
-<img src="https://opengraph.githubassets.com/1/bluewave-labs/Checkmate" width="100%" height="230px" style="object-fit:cover;" />
+<img src="https://opengraph.githubassets.com/1/bluewave-labs/Checkmate" width="100%" height="240"/>
 </a>
 </p>
 
@@ -79,7 +79,7 @@ Open-source platform helping users discover and review local businesses.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" height="45"/>
 </p>
 
 <p align="center">
@@ -90,12 +90,12 @@ Open-source platform helping users discover and review local businesses.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">E-Commerce Platform</h3>
 
 <p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=E-Commerce+Project" width="100%" height="230px" style="object-fit:cover;" />
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=E-Commerce+Project" width="100%" height="240"/>
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres" height="45"/>
 </p>
 
 <p align="center">
@@ -118,12 +118,12 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">AI Experiments</h3>
 
 <p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" width="100%" height="230px" style="object-fit:cover;" />
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" width="100%" height="240"/>
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ Exploring automation, LLM workflows, and AI-powered tools.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,ts" height="45"/>
 </p>
 
 <p align="center">
@@ -142,12 +142,12 @@ Exploring automation, LLM workflows, and AI-powered tools.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">Developer Blog</h3>
 
 <p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" width="100%" height="230px" style="object-fit:cover;" />
+<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" width="100%" height="240"/>
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@ Technical blog sharing development insights and tutorials.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="45"/>
 </p>
 
 <p align="center">
