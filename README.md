@@ -95,7 +95,7 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres" height="40"/>
 </p>
 <p align="center">
-<a href="#">
+<a href="(https://skorpios604.github.io/E-commerce/)">
 <img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
