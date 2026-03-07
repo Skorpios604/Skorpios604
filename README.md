@@ -54,64 +54,51 @@ I'm a Vancouver-based Full-Stack Developer with over 3 years of experience build
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-Some projects I've built and contributed to.
-</p>
-
 <div align="center">
 
-<table>
-
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
-
+<div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
 <h3 align="center">Checkmate</h3>
-
-<p align="center">
-<a href="https://github.com/bluewave-labs/Checkmate">
-<img src="https://opengraph.githubassets.com/1/bluewave-labs/Checkmate" width="100%" height="240"/>
-</a>
-</p>
-
-<p align="center">
+<div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+  <a href="https://github.com/bluewave-labs/Checkmate">
+    <img src="https://opengraph.githubassets.com/1/bluewave-labs/Checkmate" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
+  </a>
+</div>
+<p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
 Open-source platform helping users discover and review local businesses.
 </p>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" height="45"/>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" height="40"/>
 </p>
-
 <p align="center">
 <a href="https://github.com/bluewave-labs/Checkmate">
 <img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
+</div>
 </td>
 
 <td width="50%" valign="top">
-
+<div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
 <h3 align="center">E-Commerce Platform</h3>
-
-<p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=E-Commerce+Project" width="100%" height="240"/>
-</p>
-
-<p align="center">
+<div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+  <img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=E-Commerce+Project" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
+</div>
+<p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
 Full-stack e-commerce platform with modern UI and scalable backend.
 </p>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres" height="40"/>
 </p>
-
 <p align="center">
 <a href="#">
 <img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
+</div>
 </td>
 
 </tr>
@@ -119,55 +106,46 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 <tr>
 
 <td width="50%" valign="top">
-
+<div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
 <h3 align="center">AI Experiments</h3>
-
-<p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" width="100%" height="240"/>
-</p>
-
-<p align="center">
+<div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+  <img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
+</div>
+<p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
 Exploring automation, LLM workflows, and AI-powered tools.
 </p>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,ts" height="40"/>
 </p>
-
 <p align="center">
 <a href="#">
 <img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
+</div>
 </td>
 
 <td width="50%" valign="top">
-
+<div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
 <h3 align="center">Developer Blog</h3>
-
-<p align="center">
-<img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" width="100%" height="240"/>
-</p>
-
-<p align="center">
+<div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+  <img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
+</div>
+<p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
 Technical blog sharing development insights and tutorials.
 </p>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="45"/>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="40"/>
 </p>
-
 <p align="center">
 <a href="https://monzermourad.dev">
 <img src="https://img.shields.io/badge/Visit%20Site-6533a2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
-
+</div>
 </td>
 
 </tr>
-
 </table>
 
 </div>
