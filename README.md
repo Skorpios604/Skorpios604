@@ -75,7 +75,7 @@ Open-source platform helping users discover and review local businesses.
 </p>
 <p align="center">
 <a href="https://github.com/bluewave-labs/Checkmate">
-<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white" width="180"/>
 </a>
 </p>
 </div>
@@ -96,7 +96,7 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 </p>
 <p align="center">
 <a href="https://skorpios604.github.io/E-commerce/" target="_blank"">
-<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white" width="180"/>
 </a>
 </p>
 </div>
@@ -120,7 +120,7 @@ Exploring automation, LLM workflows, and AI-powered tools.
 </p>
 <p align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white" width="180"/>
 </a>
 </p>
 </div>
@@ -140,7 +140,7 @@ Technical blog sharing development insights and tutorials.
 </p>
 <p align="center">
 <a href="https://monzermourad.dev">
-<img src="https://img.shields.io/badge/Visit%20Site-6533a2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20Site-6533a2?style=for-the-badge&logo=googlechrome&logoColor=white" width="180"/>
 </a>
 </p>
 </div>
