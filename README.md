@@ -156,7 +156,7 @@ Technical blog sharing development insights and tutorials.
 <div align="center">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true" 
-    width="400"
+    width="300"
   />
   
   <br/>
@@ -164,11 +164,11 @@ Technical blog sharing development insights and tutorials.
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img 
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" 
-      height="170"
+      height="150"
     />
     <img 
       src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true" 
-      height="170"
+      height="150"
     />
   </div>
 </div>
