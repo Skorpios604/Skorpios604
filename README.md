@@ -140,7 +140,7 @@ Technical blog sharing development insights and tutorials.
 </p>
 <p align="center">
 <a href="https://monzermourad.dev">
-<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white" width="180" width="180"/>
+<img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white" width="180"/>
 </a>
 </p>
 </div>
@@ -154,23 +154,21 @@ Technical blog sharing development insights and tutorials.
 ###
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true" 
-    width="400"
-  />
-  
-  <br/>
-
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img 
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" 
-      height="150"
-    />
-    <img 
-      src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true" 
-      height="150"
-    />
-  </div>
+  <table width="850">
+    <tr>
+      <td align="center" colspan="2" style="padding-bottom: 20px;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="150" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true" height="150" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
