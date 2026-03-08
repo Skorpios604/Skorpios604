@@ -76,7 +76,6 @@ Monitor servers and services if they're up and running, response speed, and inci
 </div>
 </td>
 
-
 <td width="50%" valign="top">
 <div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
 <h3 align="center">BlackGrid Market</h3>
@@ -125,7 +124,7 @@ Exploring automation, LLM workflows, and AI-powered tools.
 <div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
 <h3 align="center">Developer Blog</h3>
 <div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
-  <img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=Tech+Blog" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
+  <img src="https://github.com/user-attachments/assets/3d1c245b-01f6-4c64-8b50-537f023b4f59" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
 </div>
 <p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
 Technical blog sharing development insights and tutorials.
