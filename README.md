@@ -63,7 +63,7 @@ I'm a Vancouver-based Full-Stack Developer with over 3 years of experience build
   </a>
 </div>
 <p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
-Monitor servers and services checking whether they’re up and running, how fast they respond, and if there are any incidents or problems.
+Monitor servers and services if they're up and running, response speed, and incidents or problems.
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" height="40"/>
