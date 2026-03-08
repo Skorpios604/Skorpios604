@@ -156,7 +156,7 @@ Technical blog sharing development insights and tutorials.
 <div align="center">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true" 
-    width="300"
+    width="400"
   />
   
   <br/>
