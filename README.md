@@ -161,17 +161,8 @@ style="width:55%;max-width:600px;height:auto;"
 />
 
 <p align="center">
-
-<img 
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true"
-style="width:48%;max-width:800px;height:auto;"
-/>
-
-<img 
-src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true"
-style="width:48%;max-width:800px;height:auto;"
-/>
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
 </div>
