@@ -63,7 +63,7 @@ I'm a Vancouver-based Full-Stack Developer with over 3 years of experience build
   </a>
 </div>
 <p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
-Open-source platform helping users discover and review local businesses.
+Monitor servers and services checking whether they’re up and running, how fast they respond, and if there are any incidents or problems.
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" height="40"/>
@@ -79,7 +79,7 @@ Open-source platform helping users discover and review local businesses.
 
 <td width="50%" valign="top">
 <div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
-<h3 align="center">E-Commerce Platform</h3>
+<h3 align="center">BlackGrid Market</h3>
 <div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
   <img src="https://github.com/user-attachments/assets/a245fde8-3eab-4afd-ac91-454c81d4149f" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
 </div>
