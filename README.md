@@ -24,12 +24,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/monzermourad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="80"/>
-  </a>
-  <a href="https://discord.com/users/skorps23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="80"/>
-  </a>
+  <a href="https://www.linkedin.com/in/monzermourad/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="80" style="display:inline-block; border:none;"/></a><a href="https://discord.com/users/skorps23" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="80" style="display:inline-block; border:none;"/></a>
 </div>
 
 <p align="center">
