@@ -105,7 +105,7 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 <div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
 <h3 align="center">AI Experiments</h3>
 <div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
-  <img src="https://dummyimage.com/600x350/1a1a1a/ffffff&text=AI+Projects" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
+  <img src="https://github.com/user-attachments/assets/c0f74bef-ad28-4943-b16a-b8956bd19729" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
 </div>
 <p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
 Exploring automation, LLM workflows, and AI-powered tools.
