@@ -153,18 +153,24 @@ Technical blog sharing development insights and tutorials.
 
 ###
 
-<div align="center" style="width:60%;max-width:60%;display:flex;flex-direction:column;gap:12px;">
+<div align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true" 
+    width="400"
+  />
+  
+  <br/>
 
-<img 
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Skorpios604&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true"
-style="width:55%;max-width:600px;height:auto;"
-/>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true" height="170"/>
-</p>
-
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skorpios604&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" 
+      height="170"
+    />
+    <img 
+      src="https://streak-stats.demolab.com/?user=Skorpios604&theme=midnight-purple&hide_border=true" 
+      height="170"
+    />
+  </div>
 </div>
 
 ###
