@@ -102,7 +102,7 @@ Full-stack e-commerce platform with modern UI and scalable backend.
 
 <td width="50%" valign="top">
 <div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
-<h3 align="center">AI Experiments</h3>
+<h3 align="center">Vancouver AI Summit Website</h3>
 <div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
   <img src="https://github.com/user-attachments/assets/c0f74bef-ad28-4943-b16a-b8956bd19729" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
 </div>
