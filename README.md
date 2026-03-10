@@ -107,13 +107,13 @@ Full-stack e-commerce platform with modern UI and scalable backend.
   <img src="https://github.com/user-attachments/assets/c0f74bef-ad28-4943-b16a-b8956bd19729" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
 </div>
 <p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
-Exploring automation, LLM workflows, and AI-powered tools.
+Built the website for the second annual Vancouver AI Summit.
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,nodejs,ts" height="40"/>
 </p>
 <p align="center">
-<a href="#">
+<a href="https://vanaisummit.com/">
 <img src="https://img.shields.io/badge/View%20Project-6533a2?style=for-the-badge&logo=github&logoColor=white" width="180"/>
 </a>
 </p>
@@ -122,12 +122,12 @@ Exploring automation, LLM workflows, and AI-powered tools.
 
 <td width="50%" valign="top">
 <div style="width:100%; height:460px; display:flex; flex-direction:column; justify-content:space-between; border:1px solid #333; border-radius:10px; padding:15px; box-sizing:border-box;">
-<h3 align="center">Developer Blog</h3>
+<h3 align="center">Portfolio Website</h3>
 <div style="height:200px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
   <img src="https://github.com/user-attachments/assets/3d1c245b-01f6-4c64-8b50-537f023b4f59" style="width:100%; height:200px; object-fit:cover; border-radius:5px;"/>
 </div>
 <p align="center" style="margin: 10px 0; font-size: 14px; flex-grow:1;">
-Technical blog sharing development insights and tutorials.
+Built using various react components.
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="40"/>
