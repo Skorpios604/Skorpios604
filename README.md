@@ -1,4 +1,4 @@
-<h2 align="center"><strong>You made it! The counter noticed⚡</strong></h2>
+<h2 align="center"><strong>Yu made it! The counter noticed⚡</strong></h2>
 
 <p align="center">
   <img src="https://count.getloli.com/@skorpios604?theme=booru-lisu" alt="visitor count" />
